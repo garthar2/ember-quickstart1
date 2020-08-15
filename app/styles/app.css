@@ -451,11 +451,11 @@ p {
   background: url(../assets/images/jpg.jpg);
   background-size: contain;
   background-repeat: no-repeat;
-  height: 200px;
-  width: 200px;
+  height: 500px;
+  width: 500px;
 
   position: relative;
-  top: -25px;
+  top: -122px;
 }
 
 .screen-reader{
